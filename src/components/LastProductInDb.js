@@ -25,7 +25,7 @@ function LastProductInDb(){
                 </div>
                 <div className="card-body">
                     <div className="text-center">
-                        <img className="img-fluid px-3 px-sm-4 mt-3 mb-4" style={{width: 40 +'rem'}} src={"http://localhost:3005/images/products-img/" + "product.filename"} alt={product.name}/>
+                        <img className="img-fluid px-3 px-sm-4 mt-3 mb-4" style={{width: 40 +'rem'}} src={"http://localhost:3005/images/products-img/" + product.filename} alt={product.name}/>
                     </div>
                     <p>
                      {product.description}  

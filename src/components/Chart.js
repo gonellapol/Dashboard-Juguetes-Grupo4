@@ -51,18 +51,18 @@ function Chart() {
                   <thead>
                     <tr>
                       <th>Nombre</th>
-                      <th>Descripcion</th>
+                      <th>Descripción</th>
                       <th>Precio</th>
-                      <th>Categoria</th>
+                      <th>Categoría</th>
                      
                     </tr>
                   </thead>
                   <tfoot>
                     <tr>
                       <th>Nombre</th>
-                      <th>Descripcion</th>
+                      <th>Descripción</th>
                       <th>Precio</th>
-                      <th>Categoria</th>
+                      <th>Categoría</th>
                      
                     </tr>
                   </tfoot>

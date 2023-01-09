@@ -63,10 +63,9 @@ function SideBar(){
                 <li className="nav-item nav-link">
                     <Link className="nav-link" to="/SearchMovies">
                         <i className="fas fa-search"></i>
-                        <span>Buscar Producto</span>
+                        <span>Listado de productos</span>
                     </Link>
                 </li>
-
                 {/*<!-- Divider -->*/}
                 <hr className="sidebar-divider d-none d-md-block"/>
             </ul>

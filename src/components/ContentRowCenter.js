@@ -8,6 +8,7 @@ function ContentRowCenter(){
             
                     <LastProductInDb />
             <CategoriaDb />
+            
 
         </div>
     )

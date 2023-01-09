@@ -60,13 +60,7 @@ function SearchMovies(){
 					<div className="row my-4">
 						<div className="col-12 col-md-6">
 							{/* Buscador */}
-							<form method="GET" onSubmit={searchMovie}>
-								<div className="form-group">
-									<label htmlFor="">Buscar:</label>
-									<input ref={inputTag} type="text" className="form-control" />
-								</div>
-								<button className="btn btn-info">Search</button>
-							</form>
+							
 						</div>
 					</div>
 					<div className="row">

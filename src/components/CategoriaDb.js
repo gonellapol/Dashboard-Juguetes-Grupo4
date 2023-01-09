@@ -31,26 +31,7 @@ function CategoriaDb() {
                 <div className="card-body">Juguetes</div>
               </div>
             </div>
-            <div className="col-lg-6 mb-4">
-              <div className="card bg-dark text-white shadow">
-                <div className="card-body">Armá tu 2x1</div>
-              </div>
-            </div>
-            <div className="col-lg-6 mb-4">
-              <div className="card bg-dark text-white shadow">
-                <div className="card-body">Menos de 2000$</div>
-              </div>
-            </div>
-            <div className="col-lg-6 mb-4">
-              <div className="card bg-dark text-white shadow">
-                <div className="card-body">Menos de 4000$</div>
-              </div>
-            </div>
-            <div className="col-lg-6 mb-4">
-              <div className="card bg-dark text-white shadow">
-                <div className="card-body">Menos de 6000$</div>
-              </div>
-            </div>
+            
             
             
           </div>

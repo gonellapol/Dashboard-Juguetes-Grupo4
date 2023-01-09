@@ -58,7 +58,7 @@ let cantidadCategorias = products.reduce(function(acc, curr) {
         title: 'Clientes',
         color: 'primary', 
         cuantity: users.length,
-        icon: 'fa-user-check'
+
     }
     
     let totalProducts = {
@@ -69,7 +69,7 @@ let cantidadCategorias = products.reduce(function(acc, curr) {
     }
     
     let sociosQuantity = {
-        title:'Categorias' ,
+        title:'Categorías' ,
         color:'warning',
         cuantity: cantidadCategorias.length || 'Sin datos',
         icon:'fa-clipboard-list',

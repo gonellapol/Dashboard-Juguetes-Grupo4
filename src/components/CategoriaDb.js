@@ -6,7 +6,7 @@ function CategoriaDb() {
       <div className="card shadow mb-4">
         <div className="card-header py-3">
           <h5 className="m-0 font-weight-bold text-gray-800">
-            Categorias 
+            Categorías 
           </h5>
         </div>
         <div className="card-body">
@@ -31,7 +31,7 @@ function CategoriaDb() {
                 <div className="card-body">Juguetes</div>
               </div>
             </div>
-            <div className="col-lg-6 mb-4">
+             {/*<!-- <div className="col-lg-6 mb-4">
               <div className="card bg-dark text-white shadow">
                 <div className="card-body">Armá tu 2x1</div>
               </div>
@@ -51,7 +51,7 @@ function CategoriaDb() {
                 <div className="card-body">Menos de 6000$</div>
               </div>
             </div>
-            
+            -->*/}
             
           </div>
         </div>
